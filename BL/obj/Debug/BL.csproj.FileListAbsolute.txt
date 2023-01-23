@@ -7,3 +7,14 @@ C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET
 C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
 C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET\BL\obj\Debug\BL.dll
 C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET\BL\obj\Debug\BL.pdb
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\BL\bin\Debug\BL.dll
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\BL\bin\Debug\BL.pdb
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\BL\bin\Debug\DL.dll
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\BL\bin\Debug\ML.dll
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\BL\bin\Debug\DL.pdb
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\BL\bin\Debug\ML.pdb
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\BL\obj\Debug\BL.dll
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\BL\obj\Debug\BL.pdb

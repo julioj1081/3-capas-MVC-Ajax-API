@@ -3,3 +3,9 @@ C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET
 C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
 C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET\ML\obj\Debug\ML.dll
 C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET\ML\obj\Debug\ML.pdb
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\ML\bin\Debug\ML.dll
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\ML\bin\Debug\ML.pdb
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\ML\obj\Debug\ML.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\ML\obj\Debug\ML.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\ML\obj\Debug\ML.dll
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\ML\obj\Debug\ML.pdb

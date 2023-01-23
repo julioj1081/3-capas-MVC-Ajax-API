@@ -2,3 +2,9 @@ C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET
 C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET\DL\bin\Debug\DL.pdb
 C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET\DL\obj\Debug\DL.dll
 C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\NuevosEjerc\CrudADO.NET\DL\obj\Debug\DL.pdb
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\DL\bin\Debug\DL.dll
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\DL\bin\Debug\DL.pdb
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\DL\obj\Debug\DL.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\DL\obj\Debug\DL.dll
+C:\Users\julio\source\repos\Crud-Usuario-JS-y-ADO\DL\obj\Debug\DL.pdb
